@@ -1,0 +1,1 @@
+This current project tracks a list of recipes and will allow a user to navigate to all of them using an HTML webpage.
